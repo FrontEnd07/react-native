@@ -1,5 +1,4 @@
 import styled from 'styled-components/native'
-import Video from 'react-native-video';
 import VideoPlayer from "../../components/VideoPlayer/VideoPlayer"
 
 const CardView = styled.View`
