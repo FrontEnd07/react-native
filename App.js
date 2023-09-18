@@ -1,5 +1,5 @@
 import styled from 'styled-components/native';
-import { Navigation } from './screens/Navigation';
+import { Navigation } from './src/screens/Navigation';
 
 // const ViewBody = styled.View`
 //     flex: 1;

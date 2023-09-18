@@ -17,14 +17,12 @@ const Card = styled.View`
     border-top-right-radius: 15px;
 `;
 
-const Heading = styled.Text`
-    font-size: 16px;
-`;
 const CardBody = styled.View`
     flex: 1 1 auto;
     padding: 32px;
     color: #fff;
 `;
+
 const MarginButton = styled.View`
     margin-bottom: 10px;
 `;
